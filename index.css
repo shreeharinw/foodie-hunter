@@ -113,9 +113,9 @@ body{
 .food-items{
     display: none;
 }
-/* .cart-toggle{
+.cart-toggle{
     display: block;
-} */
+}
 .util i,.user i{
     font-size: 18px;
     margin: 0 16px;
